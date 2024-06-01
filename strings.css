@@ -1,0 +1,33 @@
+body{
+    background-color: blueviolet;
+}
+nav{
+    background-color:antiquewhite;
+    border: 5px; color:black;
+    overflow: hidden;
+    height: 100px;
+    width: 2000px;
+}
+
+nav a{
+    color:black;
+    text-align: center;
+    padding: 15px 15px 15px 15px;
+    float: left;
+    text-decoration: none;
+}
+
+nav img{
+    width: 100px;
+    height: 100px;
+}
+
+nav a:hover{
+    background-color: lightgrey;
+    color: black;
+}
+
+h1{
+    text-decoration: underline;
+    text-align: center;
+}
